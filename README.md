@@ -8,8 +8,8 @@ Download the [latest version of UniAID](https://github.com/kubovicsakos/UniAID/r
 ## System requirements:
 ### Software:
 - Operating system: Android 10+
-- Permissions: There are no addtional permissions needed.
-### Recomended hardware: 
+- Permissions: There are no additional permissions needed.
+### Recommended hardware: 
 - CPU: 1.5 GHz with 4 or more cores 
 - RAM: 2GB or more
 - Storage: min 50MB or more
@@ -32,7 +32,7 @@ Currently, the app can only be installed via APK file. This may change in future
 2. Open your File Manager or Downloads app
 3. Locate and tap on the APK file
 4. Tap "Install" when prompted
-5- Wait for installation to complete (typically a few seconds)
+5. Wait for installation to complete (typically a few seconds)
 6. The app will appear in your app drawer or home screen when finished
 ### Step 3: Updating the App
 To update an existing installation:
