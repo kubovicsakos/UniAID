@@ -3,8 +3,7 @@ UniAID is a native Android app written in Kotlin, aimed at hungarian university 
 
 ## Downloads
 
-[![GitHub release](https://img.shields.io/github/release/kubovicsakos/UniAID.svg)](https://github.com/kubovicsakos/UniAID/releases)
+Download the [latest version of UniAID](https://github.com/kubovicsakos/UniAID/releases/latest).
 
-Download the latest version from the [Releases page](https://github.com/kubovicsakos/UniAID/releases).
 
 This project was made by Kubovics Ákos as his thesis work. Further development is possible
