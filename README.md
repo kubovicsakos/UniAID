@@ -10,9 +10,9 @@ Download the [latest version of UniAID](https://github.com/kubovicsakos/UniAID/r
 - Operating system: Android 10+
 - Permissions: There are no addtional permissions needed.
 ### Recomended hardware: 
-- CPU: 1.5 GHz with 4+ cores 
+- CPU: 1.5 GHz with 4 or more cores 
 - RAM: 2GB or more
-- Storage: min 50MB
+- Storage: min 50MB or more
 - Display: 5.5"+ size with, minimum 720*1280 resolution
 ### Network:
 - Internet connectivity is not needed beyond downloading the app.
