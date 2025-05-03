@@ -5,6 +5,41 @@ UniAID is a native Android app written in Kotlin, aimed at hungarian university 
 
 Download the [latest version of UniAID](https://github.com/kubovicsakos/UniAID/releases/latest).
 
+## System requirements:
+### Software:
+- Operating system: Android 10+
+- Permissions: There are no addtional permissions needed.
+### Recomended hardware: 
+- CPU: 1.5 GHz with 4+ cores 
+- RAM: 2GB or more
+- Storage: min 50MB
+- Display: 5.5"+ size with, minimum 720*1280 resolution
+### Network:
+- Internet connectivity is not needed beyond downloading the app.
+
+## Installation Guide
+Installation and Update Steps
+Currently, the app can only be installed via APK file. This may change in future updates.
+
+### Step 1: Enable Unknown Sources
+1. Open Settings on your phone
+2. Navigate to "Security & Privacy" or "Apps & notifications" (may vary by device)
+3. Select "Install unknown apps"
+4. Find the app you'll use for installation (e.g. Chrome, Files)
+5. Toggle "Allow from this source" on (For security reasons, turn this off after installation)
+### Step 2: Install the APK
+1. Download the UniAID.apk file
+2. Open your File Manager or Downloads app
+3. Locate and tap on the APK file
+4. Tap "Install" when prompted
+5- Wait for installation to complete (typically a few seconds)
+6. The app will appear in your app drawer or home screen when finished
+### Step 3: Updating the App
+To update an existing installation:
+
+- Follow the same process as installation
+- The system will recognize it as an update rather than a new installation
+
 ## Features
 ### Notes
 - Create, edit, study notes. 
