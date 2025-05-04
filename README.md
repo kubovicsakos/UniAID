@@ -79,6 +79,15 @@ To use UniAID effectively:
 - Track your grades as you progress through your studies
 - Use the statistics dashboard to monitor your academic progress
 
+## Opening the project's source code
+Please use Android Studio to open the project. The project is built with Gradle, so you can simply open the project in Android Studio, and it will automatically download the necessary dependencies.
+From there, you can run the app on an emulator or a physical device connected to your computer.
+Recommended IDE version: Android Studio Meerkat 2024.3.1 Patch 2
+
+
+## Contributing
+For now this project is not open for contributions, but if you have any suggestions or ideas, feel free to reach out.
+
 ## Credits
 
 This project was made by Kubovics Ákos as his thesis work. Further development is possible.
